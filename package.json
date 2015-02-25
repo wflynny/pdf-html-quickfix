@@ -1,0 +1,11 @@
+{
+  "name": "pdf-html-quickfix",
+  "version": "0.1.0",
+  "description": "Google Chrome extension to skip pesky '*pdf+html' pages when viewing journal articles",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "engines": {},
+  "export-symbol": "pdf-html-quickfix.exports"
+}

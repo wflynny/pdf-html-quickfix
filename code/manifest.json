@@ -1,0 +1,14 @@
+{
+  "name": "pdf+html Remover",
+  "version": "0.1.0",
+  "manifest_version": 2,
+  "description": "This extension removes +html from journal article URLs",
+  "default_locale": "en",
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ],
+  "background": {
+      "scripts": ["js/background.js"]
+  }
+}
